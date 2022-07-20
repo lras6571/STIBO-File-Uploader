@@ -1,0 +1,31 @@
+
+Z	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ìÿ¾¤ûÿÿÿÿ
+H
+java:S1481"3Remove this unused "SFTPWORKINGDIR" local variable.(‚ß½%
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡´Ì™
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(³¸Ÿãüÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Úãé¾
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(õ®êî
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Éèç»
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ðâþ†
+Q	java:S1251"<This block of commented-out lines of code should be removed.(ÿºÆô
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(øÈÆà
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Ÿ•Ô¶øÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(­¨ª“úÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ûÏáì
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(¡é ü
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(Ù‘æâ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ñ²£
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ…Ñ–
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áþÛµ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œæžä
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ß½%
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æüì¢üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È ËÛÿÿÿÿÿ
+d
+java:S2259E"IA "NullPointerException" could be thrown; "channelSftp" is nullable here.(á¤òòûÿÿÿÿ
+h
+java:S20959"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ô÷Ôûøÿÿÿÿ

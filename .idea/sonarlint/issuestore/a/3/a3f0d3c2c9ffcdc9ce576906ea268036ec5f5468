@@ -1,0 +1,12 @@
+
+b	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(¯µ…8ƒÔîÏ¡0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÖåâÎÿÿÿÿÿ8ÔîÏ¡0
+X
+java:S2696#"6Make the enclosing method "static" or remove this set.(Ó¤¦Îûÿÿÿÿ8ÔîÏ¡0
+O
+java:S1874="2Remove this use of "setTimeout"; it is deprecated.(Œ·Ğ±8£ÔîÏ¡0
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(Æ”—‘şÿÿÿÿ8£ÔîÏ¡0
+L
+java:S2093&"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8£ÔîÏ¡0
+j
+java:S2095("MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÛÑ·Ñ8ĞÔîÏ¡0

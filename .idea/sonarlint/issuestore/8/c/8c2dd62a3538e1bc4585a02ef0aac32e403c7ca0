@@ -1,0 +1,18 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡´Ì™
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(³¸Ÿãüÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Úãé¾
+X	java:S125'"<This block of commented-out lines of code should be removed.(Ð¨×”8þéÎ¡0
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ÉÒæº
+]	java:S125."<This block of commented-out lines of code should be removed.(‰šÿøúÿÿÿÿ8î¸çÎ¡0
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(¦ººÍ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(¤õ‰
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(¡é ü
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(Ù‘æâ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ñ²£
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ…Ñ–
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áþÛµ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œæžä
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“þŒ”
+d
+java:S22597"IA "NullPointerException" could be thrown; "channelSftp" is nullable here.(á¤òòûÿÿÿÿ
