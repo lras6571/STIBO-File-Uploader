@@ -1,4 +1,4 @@
-package transfer;
+package uploadToS3;
 
 import com.jcraft.jsch.*;
 
