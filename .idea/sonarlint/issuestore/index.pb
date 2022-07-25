@@ -11,9 +11,3 @@ X
 (src/main/java/uploadToS3/uploadFile.java,7\1\71e1154dfb2ce5110a3f5da1155f3f4595d26e70
 ]
 -src/main/java/uploadToS3/TransferFileNew.java,a\2\a22d64210e10383e29502ea20f4e5bdf8dc5ef2c
-T
-$src/main/java/transfer/FileMove.java,8\c\8c2dd62a3538e1bc4585a02ef0aac32e403c7ca0
-T
-$src/main/java/transfer/MoveFile.java,0\7\07c889615580881fde6f31c8dc60f9f64448c1b8
-W
-'src/main/java/transfer/SendMyFiles.java,a\3\a3f0d3c2c9ffcdc9ce576906ea268036ec5f5468
